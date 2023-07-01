@@ -8,13 +8,13 @@
 
 
 
-- 🌱 I’m currently learning **Microsoft Power BI and Tablue**
+- 🌱 I’m currently learning **Microsoft Power BI and Advance Excel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **rajkumarcsemitrc2020@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the Running very often.**
+- ⚡ Fun fact **Always find a less complex way to solve a problem and Preapre own Strategies .**
 
 ## 2. 🚀 Languages and Tools:
 
@@ -29,10 +29,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
 
-[![Rajkuamr Jangid github activity graph](https://activity-graph.herokuapp.com/graph?username=rajkumar2010101&theme=redical)](https://github.com/rajkumar2010101/github-readme-activity-graph)
-<br/>
 <br/>
 
 ## 4. Connect with me:
