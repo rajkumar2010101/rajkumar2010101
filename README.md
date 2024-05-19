@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Microsoft Power BI and Advance Excel**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Data Scienctist Team**
 
 - 📫 How to reach me **rajkumarcsemitrc2020@gmail.com**
 
