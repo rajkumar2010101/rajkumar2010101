@@ -1,202 +1,361 @@
-# 👋 Hi, I'm Rajkumar Jangid
+<div align="center">
 
-### Data Scientist | WFM & Forecasting Analytics | Python | SQL | Power BI
+👋 RAJKUMAR JANGID
+DATA SCIENTIST • WFM ANALYTICS • FORECASTING • AI & AUTOMATION
 
-I’m a **Data Scientist with experience in Workforce Management (WFM), forecasting, data analytics, and operational intelligence**. I enjoy transforming complex business problems into simple, data-driven solutions and building practical analytics that create measurable business impact.
+<br>
 
----
+<img src="https://img.shields.io/badge/🎧%20WORKFORCE%20MANAGEMENT-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/📈%20FORECASTING-6A5ACD?style=for-the-badge"/> <img src="https://img.shields.io/badge/🤖%20DATA%20SCIENCE-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/⚙️%20AUTOMATION-FF6F00?style=for-the-badge"/>
 
-## 🚀 About Me
+<br><br>
 
-- 🔭 Working in **WFM, Data Science & Forecasting Analytics**
-- 📊 Experienced in **Contact Center Analytics, Capacity Planning & Workforce Forecasting**
-- 🧠 Interested in **Machine Learning, Time-Series Forecasting & AI**
-- 🐍 Building analytical solutions using **Python, SQL & Machine Learning**
-- 📈 Creating dashboards and business insights using **Power BI & Excel**
-- ⚙️ Passionate about **automation and simplifying complex problems**
-- 🤝 Open to collaborating on **Data Science, Analytics & AI projects**
-- 📫 Email: **rajkumarcsemitrc2020@gmail.com**
+I transform operational data into forecasts, workforce strategies,
+business insights, and intelligent analytics solutions.
 
----
+<br>
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/rajkumar-jangid/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rajkumarcsemitrc2020@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/rajkumar2010101"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-### 💻 Programming & Data
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
-</p>
+🧩 PROFESSIONAL SNAPSHOT
 
-### 📊 Analytics & Visualization
+<table> <tr>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-</p>
+<td width="33%" align="center">
 
-### ⚙️ Tools & Technologies
+🎧 WFM
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+Forecasting
+Staffing
+Capacity Planning
+Erlang C
 
----
+</td>
 
-## 🎯 Core Expertise
+<td width="33%" align="center">
 
-| Area | Skills |
-|---|---|
-| 📈 WFM Analytics | Forecasting, Staffing, Capacity Planning, Erlang C |
-| 🔮 Forecasting | Time Series, Trend, Seasonality, Forecast Accuracy |
-| 🤖 Data Science | Machine Learning, EDA, Feature Engineering |
-| 📊 BI & Reporting | Power BI, Excel, Tableau, Data Visualization |
-| 🗄️ Data | Python, Pandas, NumPy, SQL, MySQL, Oracle |
-| ⚙️ Automation | Reporting Automation, Data Processing, Analytics Solutions |
-| 🎧 Contact Center | Volume, AHT, ASA, Service Level, Shrinkage, FTE |
+🤖 DATA SCIENCE
 
----
+Python
+Machine Learning
+Time Series
+Predictive Analytics
 
-## 💼 What I Work On
+</td>
 
-### 🎧 Workforce Management & Contact Center Analytics
+<td width="33%" align="center">
 
-- Contact Center Forecasting
-- Volume & AHT Analysis
-- Staffing & Capacity Planning
-- Erlang C & Service Level Analysis
-- Forecast Accuracy & Variance Analysis
-- Trend & Seasonality Analysis
-- Shrinkage & FTE Planning
-- Agent Performance Analytics
-- Operational Performance Reporting
+📊 BUSINESS
 
-### 🤖 Data Science & AI
+Power BI
+SQL
+Automation
+Operational Intelligence
 
-- Exploratory Data Analysis
-- Predictive Analytics
-- Machine Learning
-- Time-Series Forecasting
-- Anomaly Detection
-- Feature Engineering
-- Data Automation
-- AI-driven Analytics
+</td>
 
-### 📊 Business Intelligence
+</tr> </table>
 
-- Interactive Power BI Dashboards
-- KPI Monitoring
-- Operational Reporting
-- Data Visualization
-- Business Performance Analysis
-- Automated Reporting
+🏆 MY SPECIALIZATION
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+DATA SCIENCE + WFM DOMAIN KNOWLEDGE
 
-### 🎧 Contact Center Capacity Planning
+⬇️
 
-A Python-based workforce planning solution designed to analyze demand, staffing requirements, service levels, and capacity.
+FORECASTING + CAPACITY PLANNING
 
-**Technologies:**
+⬇️
 
-`Python` `Pandas` `NumPy` `Forecasting` `Erlang C` `Matplotlib`
+CONTACT CENTER ANALYTICS
 
----
+⬇️
 
-### 🎙️ VoiceIQ — Real-Time Contact Center Analytics
+BUSINESS DECISIONS
 
-A real-time analytics solution concept for monitoring contact-center operations and agent performance.
+</div>
 
-**Key Features:**
+<br>
 
-- 📞 Real-time queue monitoring
-- ⏱️ AHT tracking
-- 📊 ASA monitoring
-- 🎯 Service Level tracking
-- 👥 Agent activity monitoring
-- 🚨 Custom threshold alerts
-- 🔗 CRM integration concepts
-- 📈 Real-time operational insights
+📊 MY ANALYTICS UNIVERSE
 
-**Technologies:**
+<table> <tr> <td align="center" width="20%">
 
-`Python` `APIs` `Data Analytics` `Contact Center Analytics`
+📞
 
----
+CONTACT
+CENTER
 
-### 📊 Forecasting & Staffing Analytics
+Volume
+AHT
+ASA
+Service Level
 
-Analytics solutions focused on predicting contact-center demand and converting forecasts into staffing requirements.
+</td>
 
-**Focus Areas:**
+<td align="center" width="20%">
 
-- Time-Series Forecasting
-- Machine Learning
-- Forecast Accuracy
-- Capacity Planning
-- Staffing Optimization
-- Trend & Seasonality Analysis
+🔮
 
----
+FORECASTING
 
-## 📚 Currently Learning
+Trend
+Seasonality
+Variance
+Accuracy
 
-- 📊 Advanced **Microsoft Power BI**
-- 📗 Advanced **Excel**
-- 🤖 Advanced **Machine Learning**
-- 📈 Time-Series Forecasting
-- 🧠 AI & Automation
-- ☁️ Data & AI Technologies
+</td>
 
----
+<td align="center" width="20%">
 
-## 📈 GitHub Stats
+👥
+
+WORKFORCE
+
+FTE
+Shrinkage
+Staffing
+Capacity
+
+</td>
+
+<td align="center" width="20%">
+
+🤖
+
+AI / ML
+
+Prediction
+Anomaly Detection
+Feature Engineering
+Automation
+
+</td>
+
+<td align="center" width="20%">
+
+📊
+
+BI
+
+Power BI
+Excel
+Dashboards
+KPIs
+
+</td> </tr> </table>
+
+🧠 CORE COMPETENCIES
+🏷️ Area	🔍 Expertise
+🎧 WFM Analytics	Forecasting • Staffing • Capacity Planning • Erlang C
+📈 Forecasting	Time Series • Trend • Seasonality • Accuracy • Variance
+🤖 Data Science	EDA • ML • Predictive Analytics • Feature Engineering
+📊 BI & Reporting	Power BI • Excel • Tableau • KPI Dashboards
+🗄️ Data	Python • Pandas • NumPy • SQL • MySQL • Oracle
+⚙️ Automation	Reporting Automation • Data Processing • Analytics Solutions
+🎯 Operations	AHT • ASA • Service Level • Shrinkage • FTE
+🛠️ TECHNOLOGY STACK
+🐍 PROGRAMMING & DATA
+
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
+
+📊 BUSINESS INTELLIGENCE
+
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/> </p>
+
+🤖 MACHINE LEARNING & AI
+
+<p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/> <img src="https://img.shields.io/badge/Time%20Series-6A5ACD?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20%26%20Automation-FF6F00?style=for-the-badge"/> </p>
+
+⚙️ DEVELOPMENT
+
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
+
+🚀 FEATURED PROJECTS
+🎧 01 — CONTACT CENTER CAPACITY PLANNING
+Python Forecasting Erlang C FTE WFM
+
+Analyzes
+
+Volume • AHT • Service Level • Shrinkage • FTE • Occupancy • Capacity
+
+🎙️ 02 — VOICEIQ
+REAL-TIME CONTACT CENTER INTELLIGENCE
+
+A concept for monitoring real-time agent and contact-center performance through a unified analytics layer.
+
+<table> <tr> <td align="center">📞<br><b>Queue</b></td> <td align="center">⏱️<br><b>AHT</b></td> <td align="center">⚡<br><b>ASA</b></td> <td align="center">🎯<br><b>SL</b></td> <td align="center">👥<br><b>Agents</b></td> <td align="center">🚨<br><b>Alerts</b></td> </tr> </table>
+
+Key Capabilities
+
+Real-Time Monitoring
+Agent Activity
+Queue Analytics
+AHT / ASA / SL Tracking
+Threshold Monitoring
+CRM Integration Concept
+Operational Intelligence
+
+🔮 03 — FORECASTING & STAFFING ANALYTICS
+TIME SERIES MACHINE LEARNING WFM
+
+📊 THE WFM KPI CHAIN
+
+<div align="center">
+
+📞 VOLUME
+
+↓
+
+⏱️ AHT
+
+↓
+
+📐 WORKLOAD
+
+↓
+
+👥 REQUIRED FTE
+
+↓
+
+🎯 SERVICE LEVEL
+
+↓
+
+📈 OPERATIONAL PERFORMANCE
+
+</div>
+
+🔍 QUESTIONS I LIKE ANSWERING
+
+<table> <tr> <td>
+
+🔮 Forecasting
+
+How much demand should we expect?
+
+</td> <td>
+
+👥 Staffing
+
+How many people do we need?
+
+</td> </tr>
+
+<tr> <td>
+
+🎯 Service Level
+
+Will staffing meet the target?
+
+</td> <td>
+
+🚨 Variance
+
+Why did actuals differ from forecast?
+
+</td> </tr>
+
+<tr> <td>
+
+🤖 Automation
+
+Can this manual process be automated?
+
+</td> <td>
+
+📊 BI
+
+How can insights reach decision-makers faster?
+
+</td>
+</tr>
+</table>
+
+
+🎯 MY PROFESSIONAL FOCUS
+
+<div align="center">
+
+AREA	FOCUS
+
+🎧	Workforce Management
+📈	Forecasting & Time Series
+🤖	Data Science & Machine Learning
+📊	Business Intelligence
+⚙️	Automation & AI
+🧠	Operational Intelligence
+
+</div>
+
+💼 WHAT I BRING TO A TEAM
+
+       DOMAIN KNOWLEDGE
+              +
+        DATA SCIENCE
+              +
+        ANALYTICS
+              +
+         AUTOMATION
+              +
+      BUSINESS THINKING
+              │
+              ▼
+     ┌───────────────────┐
+     │ PRACTICAL SOLUTION│
+     └───────────────────┘
+
+I can move between:
+
+Business Problem → Data → Analysis → Model → Dashboard → Decision
+
+📚 AREAS OF INTEREST
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkumar2010101&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar2010101&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+Workforce Management
+Forecasting
+Time Series
+Capacity Planning
+Contact Center Analytics
+Machine Learning
+Artificial Intelligence
+Predictive Analytics
+Business Intelligence
+Automation
+
 </p>
 
----
+🤝 LET'S CONNECT
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajkumar2010101&theme=transparent&hide_border=true" />
-</p>
+Interested in Data Science, WFM, Forecasting, AI or Analytics?
 
----
+<br>
 
-## 📌 Areas of Interest
+<a href="https://www.linkedin.com/in/rajkumar-jangid/"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-```text
-Workforce Management       ████████████████████
-Forecasting & Time Series  ██████████████████
-Data Science               █████████████████
-Business Analytics         ████████████████
-Machine Learning           ███████████████
-AI & Automation            ██████████████
-Data Visualization        ██████████████
+<a href="mailto:rajkumarcsemitrc2020@gmail.com"> <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-## 🤝 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/rajkumar-jangid/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rajkumarcsemitrc2020@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<a href="https://github.com/rajkumar2010101"> <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-## 💡 My Approach
+<br><br>
 
-Understand the problem → Simplify it → Build the solution → Measure the impact.
+Open to collaborating on Data Science • WFM • AI • Forecasting • Analytics projects
 
-<p align="center"> <i>Turning data into insights, insights into decisions, and decisions into impact.</i> </p> <p align="center"> ⭐ If you find my projects useful, feel free to explore my repositories and connect with me. </p> ```
+</div>
 
-This version is cleaner, smaller, and more professional while highlighting your WFM + Data Science specialization instead of making the profile look overly crowded.
+<div align="center">
+
+💭 BUILD • ANALYZE • AUTOMATE • IMPROVE
+DATA → INSIGHTS → DECISIONS → IMPACT
+
+<br>
+
+⭐ Thanks for visiting my profile!
+
+</div>
